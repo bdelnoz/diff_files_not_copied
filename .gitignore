@@ -1,0 +1,32 @@
+# Section ajoutée automatiquement par diff_files_not_copied.sh
+/logs
+/results
+/outputs
+/resume
+
+# Section ajoutée automatiquement par diff_files_not_copied.sh
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Section ajoutée automatiquement par diff_files_not_copied.sh
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Section ajoutée automatiquement par diff_files_not_copied.sh
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Section ajoutée automatiquement par diff_files_not_copied.sh
+# Ignore Python caches if any scripts use Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+*.V*.*
