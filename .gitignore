@@ -30,3 +30,6 @@ __pycache__/
 
 
 *.V*.*
+
+# Logs de création du repo - ajoutés automatiquement
+creation_log/
